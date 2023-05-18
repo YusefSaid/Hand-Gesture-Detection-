@@ -1,6 +1,6 @@
 # ikt213 machine vision
 
-
+The machine vision project was a hand gesture detection solution.
 
 ## Getting started
 
